@@ -1,0 +1,185 @@
+{
+  "button": {
+    "done": "Fertig",
+    "cont": "Weiter",
+    "next": "Nächster"
+  },
+  "splash": "Bitte wählen Sie Ihre Sprache",
+  "onboard1": [
+    "Machen Sie sich bereit für die nächste Reise",
+    "Finden Sie viele touristische Ziele, die auf Ihren Besuch warten"
+  ],
+  "onboard2": [
+    "Besuchen Sie Touristenattraktionen",
+    "Finden Sie viele touristische Ziele, die auf Ihren Besuch warten"
+  ],
+  "onboard3": [
+    "Lassen Sie uns die Welt erkunden",
+    "Finden Sie viele touristische Ziele, die auf Ihren Besuch warten"
+  ],
+  "welcome": [
+    "Willkommen bei Kemet",
+    "Bitte wählen Sie unten Ihre Anmeldeoption aus"
+  ],
+  "f_name": {
+    "label": "Vorname",
+    "hint": "Geben Sie Ihren Vornamen ein",
+    "valid": "Bitte geben Sie Ihren Vornamen ein!"
+  },
+  "l_name": {
+    "label": "Nachname",
+    "hint": "Geben Sie Ihren Nachnamen ein",
+    "valid": "Bitte geben Sie Ihren Nachnamen ein!"
+  },
+  "phone": {
+    "label": "Telefon",
+    "hint": "Geben Sie Ihre Telefonnummer ein",
+    "valid": "Bitte geben Sie Ihre Telefonnummer ein!"
+  },
+  "age": {
+    "label": "Alter",
+    "hint": "Geben Sie Ihr Alter ein",
+    "valid": [
+      "Bitte geben Sie Ihr Alter ein",
+      "Bitte geben Sie ein Alter von mindestens 14 Jahren ein"
+    ]
+  },
+  "email": {
+    "label": "E-Mail",
+    "hint": "Geben Sie Ihre E-Mail-Adresse ein",
+    "valid": [
+      "Bitte geben Sie Ihre E-Mail-Adresse ein!",
+      "Bitte geben Sie eine gültige E-Mail-Adresse ein!"
+    ]
+  },
+  "pass": {
+    "label": "Passwort",
+    "hint": "Geben Sie Ihr Passwort ein",
+    "valid": [
+      "Bitte geben Sie Ihr Passwort ein!",
+      "Bitte geben Sie mindestens 6 Buchstaben ein!"
+    ]
+  },
+  "conf_pass": {
+    "label": "Passwort bestätigen",
+    "hint": "Geben Sie Ihr Passwort erneut ein",
+    "valid": [
+      "Bitte geben Sie Ihr Passwort ein!",
+      "Passwort stimmt nicht überein!",
+      "Das Passwort muss mindestens 6 Zeichen lang sein und mindestens einen Großbuchstaben, einen Kleinbuchstaben, ein Sonderzeichen und eine Ziffer enthalten."
+    ]
+  },
+  "forget_password": "Passwort vergessen?",
+  "sign": {
+    "in": "Anmelden",
+    "up": "Registrieren",
+    "out": "Abmelden"
+  },
+  "no_acc": [
+    "Sie haben noch kein Konto?",
+    "Konto erstellen"
+  ],
+  "have_acc": [
+    "Haben Sie bereits ein Konto?",
+    "Anmelden"
+  ],
+  "valid_password": [
+    "Bitte geben Sie Ihr Passwort ein!",
+    "Bitte geben Sie mindestens 6 Buchstaben ein!"
+  ],
+  "enter_password": "Geben Sie Ihr Passwort ein",
+  "forget_pass_screen": [
+    "Passwort vergessen",
+    "Geben Sie Ihre E-Mail-Adresse oder Telefonnummer ein, um Ihr Passwort zurückzusetzen",
+    "Mit E-Mail zurücksetzen",
+    "Code anfordern"
+  ],
+  "registration_screen": [
+    "Registrierung",
+    "Geben Sie Ihre E-Mail-Adresse oder Telefonnummer ein. Wir senden Ihnen den Bestätigungscode, um sicherzustellen, dass Sie echt sind",
+    "Mit E-Mail überprüfen",
+    "Code anfordern"
+  ],
+  "new_pass_screen": [
+    "Neues Passwort erstellen",
+    "Halten Sie Ihr Konto sicher, indem Sie ein starkes Passwort erstellen",
+    "Ihr Passwort sollte mindestens einen Großbuchstaben enthalten"
+  ],
+  "otp": [
+    "Überprüfung",
+    "Geben Sie Ihre OTP-Code-Nummer ein",
+    "Überprüfen",
+    "Keinen Code erhalten?",
+    "Neuen Code senden"
+  ],
+  "on_board_app": [
+    "Konto erfolgreich erstellt",
+    "Nach diesem Schritt können Sie jeden Ort Ihrer Wahl erkunden und genießen!",
+    "Lass uns erkunden"
+  ],
+  "drawer": [
+    "Mein Konto",
+    "Kontaktiere uns",
+    "Hilfe & FAQ",
+    "Über die App",
+    "Abmelden"
+  ],
+  "support": [
+    "Unterstützung",
+    "Suchen Sie immer noch nach Antworten?",
+    "Keine Sorge, unser Team ist hier, um alle Ihre Anfragen zu lösen!",
+    "Eine Frage stellen"
+  ],
+  "helps": [
+    "Hilfe & FAQ",
+    "Was ist Kemet?",
+    "Eine Anwendung, die Ihnen hilft, unbekannte archäologische Stätten in Ägypten zu entdecken und ein Foto eines Antiquitätenstücks aufzunehmen, um ein 3D-Video anzuzeigen",
+    "Wie hilft Ihnen Kemet?",
+    "Unbekannte archäologische Stätten in Ägypten entdecken und ein Foto eines Antiquitätenstücks aufnehmen, um ein 3D-Video anzuzeigen"
+  ],
+  "acc_screen": [
+    "Kontoeinstellungen",
+    "Profil bearbeiten",
+    "Sprache ändern",
+    "Dunkelmodus",
+    "Unterstützung"
+  ],
+  "home": [
+    "Startseite",
+    "Bringen Sie Ihren Besuch auf die nächste Stufe",
+    "Orte, die Sie mögen könnten",
+    "Alle anzeigen >",
+    "Orte zu besuchen"
+  ],
+  "translate": "Übersetzen",
+  "try": "Versuchen Sie es erneut",
+  "camera": {
+    "camera": "Kamera",
+    "tourism": "Machen Sie ein Foto für ein unterhaltsames Erlebnis",
+    "hieroglyphic": "Machen Sie ein Foto für die Hieroglyphenübersetzung"
+  },
+  "dialog": [
+    "Bild auswählen von:",
+    "Kamera",
+    "Galerie"
+  ],
+  "read": "Mehr lesen",
+  "share": [
+    "Diesen Beitrag von der KEMET-App \nBeschreibung:",
+    "Link zum Bild:"
+  ],
+  "addPost": [
+    "Foto hinzufügen",
+    "Beschreibung",
+    "Dieses Feld ist erforderlich",
+    "Ort",
+    "Ihren Beitrag veröffentlichen"
+  ],
+  "profile": [
+    "Telefon",
+    "Alter",
+    "Ihre Beiträge"
+  ],
+  "validateEdit":"'Sie haben keine Daten geändert!'",
+  "delPost":"Beitrag löschen"
+}

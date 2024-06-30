@@ -1,0 +1,185 @@
+{
+  "button": {
+    "done": "Done",
+    "cont": "continue",
+    "next": "next"
+  },
+  "splash": "Please choose your language",
+  "onboard1": [
+    "Get ready for the next trip",
+    "Find many of tourist destinations ready for you to visit"
+  ],
+  "onboard2": [
+    "Visit tourist attractions",
+    "Find many of tourist destinations ready for you to visit"
+  ],
+  "onboard3": [
+    "Lets explore the world",
+    "Find many of tourist destinations ready for you to visit"
+  ],
+  "welcome": [
+    "Welcome to kemet",
+    "Please choose your login option below"
+  ],
+  "f_name": {
+    "label": "First Name",
+    "hint": "Enter your first name",
+    "valid": "Please enter your first name!"
+  },
+  "l_name": {
+    "label": "Last Name",
+    "hint": "Enter your last name",
+    "valid": "Please enter your last name!"
+  },
+  "phone": {
+    "label": "Phone",
+    "hint": "Enter your phone number",
+    "valid": "Please enter your phone number!"
+  },
+  "age": {
+    "label": "Age",
+    "hint": "Enter your age",
+    "valid": [
+      "Please enter your age",
+      "please entre age more than 14"
+    ]
+  },
+  "email": {
+    "label": "Email",
+    "hint": "Enter your Email Address",
+    "valid": [
+      "Please enter your email!",
+      "Please enter a valid email!"
+    ]
+  },
+  "pass": {
+    "label": "Password",
+    "hint": "Enter your password",
+    "valid": [
+      "Please enter your password!",
+      "Please enter at least 6 letters!"
+    ]
+  },
+  "conf_pass": {
+    "label": "Conform Password",
+    "hint": "Re_enter your password",
+    "valid": [
+      "Please enter your password!",
+      "Password does not match!",
+      "Password Must be at least 6 characters and should contain at least one upper case , lower case ,Special character and one digit"
+    ]
+  },
+  "forget_password": "Forget password?",
+  "sign": {
+    "in": "Login",
+    "up": "Register",
+    "out": "Log Out"
+  },
+  "no_acc": [
+    "Doesn’t have account ?",
+    "Create Account"
+  ],
+  "have_acc": [
+    "have account ?",
+    "Sign in"
+  ],
+  "valid_password": [
+    "Please enter your password!",
+    "Please enter at least 6 letters!"
+  ],
+  "enter_password": "Enter your password",
+  "forget_pass_screen": [
+    "Forget password",
+    "Enter your email or phone to reset your password",
+    "Reset with email",
+    "Request code"
+  ],
+  "registration_screen": [
+    "Registration",
+    "Enter your email or phone we will send the verification code to know you are real",
+    "Verify with email ",
+    "Request code"
+  ],
+  "new_pass_screen": [
+    "Create new password",
+    "Keep your account secure by creating a strong password",
+    "Your password should be at least contain upper character"
+  ],
+  "otp": [
+    "Verification",
+    "Enter your OTP code number",
+    "verify",
+    "Didn’t receive any code?",
+    "Resend New Code"
+  ],
+  "on_board_app": [
+    "Successfully created an account",
+    "After this you can explore any place you want enjoy it!",
+    "Let’s Explore"
+  ],
+  "drawer": [
+    "My Account",
+    "Contact Us",
+    "Helps & FAQs",
+    "About App",
+    "Log Out"
+  ],
+  "support": [
+    "Support",
+    "Still find your self looking for answers?",
+    "Don’t worry, our team is right here to\nresolve all your queries!",
+    "Ask a question"
+  ],
+  "helps": [
+    "Helps & FAQs",
+    "What is Kemet?",
+    "An application that helps you discover unknown archaeological sites in Egypt and take a picture of an antiquity to display a 3D video",
+    "How does Kemet help you?",
+    "discover unknown archaeological sites in Egypt and take a picture of an antiquity to display a 3D video"
+  ],
+  "acc_screen": [
+    "Account Setting",
+    "Edit profile",
+    "Change language",
+    "Dark mode",
+    "Support"
+  ],
+  "home": [
+    "Home",
+    "Take your visit to next level",
+    "places you may love it",
+    "see all >",
+    "Places to visit"
+  ],
+  "translate": "Translate",
+  "try": "Try again",
+  "camera": {
+    "camera": "Camera",
+    "tourism": "Take a photo for a fun experience",
+    "hieroglyphic": "Take a photo for Hieroglyphic translation"
+  },
+  "dialog": [
+    "Pick image from:",
+    "Camera",
+    "Gallery"
+  ],
+  "read": "read more",
+  "share": [
+    "this post from KEMET App \ndescription:",
+    "Link of Image:"
+  ],
+  "addPost": [
+    "Add photo",
+    "Description",
+    "this field is require",
+    "Location",
+    "Publish Your Post"
+  ],
+  "profile": [
+    "Phone",
+    "Age",
+    "Your posts"
+  ],
+  "validateEdit":"'You do not change any data!'",
+  "delPost":"Delete post"
+}
