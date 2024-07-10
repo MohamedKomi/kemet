@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
+import 'package:kemet/features/auth/data/models/ConfirmEmailModel.dart';
 
-import '../../../data/models/ConfirmEmailModel.dart';
 
 @immutable
 abstract class ConfirmEmailByOTPState {}

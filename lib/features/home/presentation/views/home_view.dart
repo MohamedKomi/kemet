@@ -23,7 +23,7 @@ class HomeView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    DateTime timeBackPress=DateTime.now();
+    DateTime timeBackPress = DateTime.now();
     List screens = const [
       HomeViewBody(),
       CameraViewBody(),
@@ -32,17 +32,18 @@ class HomeView extends StatelessWidget {
     ];
     return WillPopScope(
       onWillPop: () async {
-        final difference=DateTime.now().difference(timeBackPress);
-        final isExitWarning=difference>=const Duration(seconds: 2);
-        timeBackPress=DateTime.now();
-        if(isExitWarning ){
-          final message='press back again to exit';
-          Fluttertoast.showToast(msg: message,gravity: ToastGravity.BOTTOM);
+        final difference = DateTime.now().difference(timeBackPress);
+        final isExitWarning = difference >= const Duration(seconds: 2);
+        timeBackPress = DateTime.now();
+        if (isExitWarning) {
+          const message = 'press back again to exit';
+          Fluttertoast.showToast(msg: message, gravity: ToastGravity.BOTTOM);
           return false;
-        }else{
+        } else {
           Fluttertoast.cancel();
           return true;
-        }},
+        }
+      },
       child: MultiBlocProvider(
         providers: [
           BlocProvider(
@@ -67,15 +68,19 @@ class HomeView extends StatelessWidget {
             int currentIndex = BlocProvider.of<BNBCubit>(context).currentIndex;
             return Scaffold(
               appBar: PreferredSize(
-                  preferredSize: Size(
-                      double.infinity, MediaQuery.of(context).size.height * 0.1),
-                  child:
-                      currentIndex == 0 ? const AppBarHome() : const SizedBox()),
-              drawer:  const CustomDrawer(),
+                  preferredSize: Size(double.infinity,
+                      MediaQuery.of(context).size.height * 0.1),
+                  child: currentIndex == 0
+                      ? const AppBarHome()
+                      : const SizedBox()),
+              drawer: const CustomDrawer(),
               body: screens[currentIndex],
               bottomNavigationBar: const BuildBNavBar(),
               floatingActionButton: currentIndex == 0
                   ? FloatingActionButton(
+                      shape: const CircleBorder(
+                      // Adjust the radius as needed
+                      ),
                       backgroundColor: Colors.white,
                       child: Icon(
                         Icons.add,

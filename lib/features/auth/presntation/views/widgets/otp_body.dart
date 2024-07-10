@@ -3,6 +3,7 @@ import 'package:kemet/core/utils/app_router.dart';
 import 'package:kemet/core/utils/assets.dart';
 import 'package:kemet/core/utils/style.dart';
 import 'package:kemet/core/widgets/custom_button.dart';
+import 'package:kemet/features/auth/presntation/maneger/confirm_email_otp_cubit/confirm_email_otp_cubit.dart';
 import 'package:kemet/features/auth/presntation/maneger/confirm_email_otp_cubit/confirm_email_otp_state.dart';
 import 'package:kemet/features/auth/presntation/maneger/generate_otp_cubit/generate_otp_cubit.dart';
 import 'package:flutter/material.dart';
@@ -13,7 +14,6 @@ import 'package:otp_text_field/otp_field_style.dart';
 import 'package:otp_text_field/style.dart';
 
 import '../../../../../core/widgets/custom_snack_bar.dart';
-import '../../maneger/confirm_email_otp_cubit/confirm_email_otp_cubit.dart';
 
 class OTPBody extends StatelessWidget {
   OTPBody({

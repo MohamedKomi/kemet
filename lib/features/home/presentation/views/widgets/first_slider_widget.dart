@@ -13,7 +13,7 @@ class FirstSliderWidget extends StatelessWidget {
     return CarouselSlider(
       options: CarouselOptions(
         height: size.height * .2,
-        viewportFraction: 0.6,
+        viewportFraction: 0.5,
         reverse: false,
         autoPlay: true,
         autoPlayInterval: const Duration(seconds: 3),
@@ -24,6 +24,7 @@ class FirstSliderWidget extends StatelessWidget {
       items: AssetsService.sliderImages
           .map(
             (item) => Container(
+              margin: const EdgeInsets.symmetric(vertical: 7),
               decoration: BoxDecoration(
                   boxShadow: [BoxShadow(blurRadius: 10, color: mainColor)]),
               child: Stack(
