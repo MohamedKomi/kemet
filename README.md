@@ -7,7 +7,7 @@ models to enhance user engagement with features like image recognition for ident
 ## 🎥 Demo
 
 [Watch the demo video](
-https://github.com/MohamedKomi/user-attachments/commit/02e88712d0fbc752a9b5df7fb19561aaf59dd9ed)
+https://github.com/MohamedKomi/user-attachments/blob/02e88712d0fbc752a9b5df7fb19561aaf59dd9ed/assets/kemet%20video.mp4)
 
 ## 🚀 Key Features:
 1. 🏛️ Monument Recognition: Utilize AI-powered face recognition to identify monuments and provide detailed information about their history and significance.
