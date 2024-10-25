@@ -7,7 +7,7 @@ models to enhance user engagement with features like image recognition for ident
 ## 🎥 Demo
 
 [Watch the demo video](
-https://github.com/user-attachments/assets/d6d4cbff-97ad-4a2a-a109-48c42ebae467)
+https://raw.githubusercontent.com/MohamedKomi/kemet/refs/heads/main/WhatsApp%20Video%202024-10-04%20at%2021.50.41_34d596f6.mp4?token=G)
 
 ## 🚀 Key Features:
 1. 🏛️ Monument Recognition: Utilize AI-powered face recognition to identify monuments and provide detailed information about their history and significance.
