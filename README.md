@@ -7,8 +7,7 @@ models to enhance user engagement with features like image recognition for ident
 ## 🎥 Demo
 
 [Watch the demo video](
-
-https://github.com/MohamedKomi/user-attachments/commit/02e88712d0fbc752a9b5df7fb19561aaf59dd9ed#diff-5ba49953dfdae16f920ac591da9c406270b0701e921e18e040be324d6694d97e)
+https://github.com/MohamedKomi/user-attachments/commit/02e88712d0fbc752a9b5df7fb19561aaf59dd9ed)
 
 ## 🚀 Key Features:
 1. 🏛️ Monument Recognition: Utilize AI-powered face recognition to identify monuments and provide detailed information about their history and significance.
